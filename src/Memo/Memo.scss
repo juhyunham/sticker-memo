@@ -1,0 +1,15 @@
+.memo {
+  &-container {
+    min-width: 250px;
+    min-height: 300px;
+    margin: 0;
+    padding: 0 0 26px;
+    overflow: hidden;
+    font-size: 1em;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+    background: #fde92f;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    position: absolute;
+  }
+}
